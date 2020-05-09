@@ -1,0 +1,61 @@
+.logo {
+	width: 130px;
+	padding-top: 10px
+}
+
+.topnav {
+	text-align: right;
+	font-family: Birch Std;
+	width: 99%;
+	flex-direction: row;
+}
+
+.topnav a {
+	text-align: right;
+	padding: 8px 15px;
+	text-decoration: none;
+	font-weight: bold;
+	color: black;
+}
+
+.topnav .icon {
+	display: none;
+}
+
+.topnav a:hover {
+	color: #c00;
+}
+
+.fullBdgdImage {
+	position: absolute;
+	top: 0;
+	left: 0;
+	max-width: 100%;
+
+}
+
+
+body {
+	font-family: Myriad Pro;
+	background-color: #DDEEF1;
+	text-align: left;
+	padding: 40px;
+}
+
+
+h1 {
+	font-family: Birch Std;
+	text-align: left;
+}
+
+
+.column1of3, .column2of3, .column3of3 {
+	text align: center;
+	padding-top: 100px;
+	padding-left: 80px;
+	padding-bottom: 90px;
+	width: 300px;
+	float: left;
+	margin: 10px
+
+}
